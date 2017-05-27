@@ -1,0 +1,7 @@
+{
+  "name": "Start on Heroku: Node.js",
+  "description": "Sample application Node.js app using Express 4",
+  "repository": "https://github.com/rbarbioni/nodejs-express-api-mongo-docker.git",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
